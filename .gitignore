@@ -3,3 +3,6 @@ permutations
 code
 code.sublime-workspace
 prob59
+curl_client
+curl_server
+*.o
